@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 a5 d9 f4 9a d0 ff 08-71 58 67 66 93 a5 4a 1b</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">xv6 .vmx</vmxPathName></VM></Foundry>
